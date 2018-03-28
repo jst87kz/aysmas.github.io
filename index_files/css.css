@@ -1,0 +1,48 @@
+@font-face {
+	font-family: Istok Web;
+	src: local("Istok Web Regular"), local("IstokWeb-Regular"), url(http://fonts.gstatic.com/s/istokweb/v11/3qTvojGmgSyUukBzKslpAmt5.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Lobster;
+	src: local("Lobster Regular"), local("Lobster-Regular"), url(http://fonts.gstatic.com/s/lobster/v20/neILzCirqoswsqX9zoamNQ.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Open Sans;
+	src: local("Open Sans Light"), local("OpenSans-Light"), url(http://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OVuhv.woff) format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: PT Sans Caption;
+	src: local("PT Sans Caption Bold"), local("PTSans-CaptionBold"), url(http://fonts.gstatic.com/s/ptsanscaption/v10/0FlJVP6Hrxmt7-fsUFhlFXNIlpcSwSrkSA-p.woff) format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: Roboto;
+	src: local("Roboto Light"), local("Roboto-Light"), url(http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fABc-.woff) format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: Roboto;
+	src: local("Roboto"), local("Roboto-Regular"), url(http://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu5mxM.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Roboto;
+	src: local("Roboto Bold"), local("Roboto-Bold"), url(http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfABc-.woff) format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: Roboto;
+	src: local("Roboto Black"), local("Roboto-Black"), url(http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfABc-.woff) format("woff");
+	font-weight: 900;
+	font-style: normal;
+}

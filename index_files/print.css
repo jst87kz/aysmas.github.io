@@ -1,0 +1,66 @@
+body {
+	background: none; color: rgb(0, 0, 0); line-height: 1.5; font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; font-size: 10pt;
+}
+.container {
+	background: none;
+}
+hr {
+	background: rgb(204, 204, 204); margin: 2em 0px; padding: 0px; border: currentColor; border-image: none; width: 100%; height: 2px; color: rgb(204, 204, 204);
+}
+hr.space {
+	background: rgb(255, 255, 255); color: rgb(255, 255, 255); visibility: hidden;
+}
+h1 {
+	font-family: "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+}
+h2 {
+	font-family: "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+}
+h3 {
+	font-family: "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+}
+h4 {
+	font-family: "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+}
+h5 {
+	font-family: "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+}
+h6 {
+	font-family: "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+}
+code {
+	font: 0.9em/normal "Courier New", Monaco, Courier, monospace; font-size-adjust: none; font-stretch: normal;
+}
+a img {
+	border: currentColor; border-image: none;
+}
+p img.top {
+	margin-top: 0px;
+}
+blockquote {
+	margin: 1.5em; padding: 1em; font-size: 0.9em; font-style: italic;
+}
+.small {
+	font-size: 0.9em;
+}
+.large {
+	font-size: 1.1em;
+}
+.quiet {
+	color: rgb(153, 153, 153);
+}
+.hide {
+	display: none;
+}
+a:link {
+	background: none; font-weight: 700; text-decoration: underline;
+}
+a:visited {
+	background: none; font-weight: 700; text-decoration: underline;
+}
+a:link::after {
+	font-size: 90%; content: " (" attr(href) ")";
+}
+a:visited::after {
+	font-size: 90%; content: " (" attr(href) ")";
+}

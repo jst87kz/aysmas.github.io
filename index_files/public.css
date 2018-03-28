@@ -1,0 +1,612 @@
+html.height100p {
+	height: 100%;
+}
+html.height100p body {
+	height: 100%;
+}
+html.hasFooter.height100p .preview-main-container {
+	
+}
+.preview-main-container {
+	width: auto !important; position: relative !important;
+}
+.preview-main-container .page_container {
+	margin: 0px auto; position: relative;
+}
+#form_submit_message {
+	border-radius: 6px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 500px; height: 200px; text-align: center; color: rgb(67, 71, 76); padding-top: 130px; font-size: 16px; display: none; z-index: 1000; background-color: rgb(255, 255, 255); -moz-border-radius: 6px; -webkit-border-radius: 6px;
+}
+#form_submit_message .close {
+	top: -10px; width: 28px; height: 28px; right: -10px; position: absolute; cursor: pointer; background-image: url("https://static.lpgenerator.ru/media/css/images/close.png");
+}
+.form-error {
+	border: 1px solid red; border-image: none;
+}
+.tooltip {
+	background: url("https://static.lpgenerator.ru/media/css/images/e.png") no-repeat 3px 6px rgb(253, 214, 205); padding: 10px 15px 10px 45px; border-radius: 6px; border: 2px solid rgb(236, 169, 154); border-image: none; width: 200px; text-align: left; color: rgb(171, 12, 12); font-size: 14px; display: none; z-index: 200; -moz-border-radius: 6px; -webkit-border-radius: 6px;
+}
+#loading_bar {
+	background: url("loader-send.gif") no-repeat 50% 50% rgb(23, 24, 27); width: 100%; height: 100%; position: fixed; z-index: 200; opacity: 0.9;
+}
+.block-text table {
+	border-collapse: collapse;
+}
+.block-text table td {
+	border: 1px solid black; border-image: none;
+}
+.zingaya_button {
+	height: 70px; display: block;
+}
+a.zingaya_button {
+	text-transform: uppercase; line-height: 70px; padding-left: 80px; font-size: 14px; text-decoration: none;
+}
+.b_430.b_blue.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/blue_430.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_430.b_blue.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_430.b_green.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/green_430.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_430.b_green.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_430.b_orange.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/orange_430.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_430.b_orange.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_430.b_red.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/red_430.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_430.b_red.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_430.b_purple.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/purple_430.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_430.b_purple.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_430.b_grey.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/grey_430.png") no-repeat 0px 0px; color: rgb(77, 77, 77);
+}
+.b_430.b_grey.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_430.b_black.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/black_430.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_430.b_black.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_430.b_yellow.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/yellow_430.png") no-repeat 0px 0px; color: rgb(182, 124, 0);
+}
+.b_430.b_yellow.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_205.b_blue.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/blue_205.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_205.b_blue.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_205.b_green.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/green_205.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_205.b_green.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_205.b_orange.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/orange_205.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_205.b_orange.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_205.b_red.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/red_205.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_205.b_red.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_205.b_purple.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/purple_205.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_205.b_purple.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_205.b_grey.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/grey_205.png") no-repeat 0px 0px; color: rgb(77, 77, 77);
+}
+.b_205.b_grey.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_205.b_black.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/black_205.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_205.b_black.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_205.b_yellow.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/yellow_205.png") no-repeat 0px 0px; color: rgb(182, 124, 0);
+}
+.b_205.b_yellow.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_360.b_blue.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/blue_360.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_360.b_blue.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_360.b_green.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/green_360.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_360.b_green.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_360.b_orange.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/orange_360.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_360.b_orange.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_360.b_red.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/red_360.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_360.b_red.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_360.b_purple.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/purple_360.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_360.b_purple.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_360.b_grey.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/grey_360.png") no-repeat 0px 0px; color: rgb(77, 77, 77);
+}
+.b_360.b_grey.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_360.b_black.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/black_360.png") no-repeat 0px 0px; color: rgb(255, 255, 255);
+}
+.b_360.b_black.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_360.b_yellow.zingaya_button {
+	background: url("https://static.lpgenerator.ru/media/css/zingaya_buttons/yellow_360.png") no-repeat 0px 0px; color: rgb(182, 124, 0);
+}
+.b_360.b_yellow.zingaya_button:hover {
+	background-position: 0px -70px;
+}
+.b_430.zingaya_button {
+	width: 430px;
+}
+.b_205.zingaya_button {
+	width: 205px;
+}
+.b_360.zingaya_button {
+	width: 360px;
+}
+span.t_big {
+	font-size: 18px;
+}
+span.t_medium {
+	font-size: 14px;
+}
+span.t_small {
+	font-size: 10px;
+}
+.gdeslon-widget {
+	width: 860px !important;
+}
+.gdeslon-item {
+	background: url("https://static.lpgenerator.ru/media/css/images/slon_item_bg.png") repeat-x; margin: 0px 10px; border-radius: 4px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 180px; text-align: center; color: rgb(62, 69, 80); font-family: "Times New Roman", serif; font-size: 14px; float: left; display: block; min-height: 240px;
+}
+.gdeslon-item img {
+	padding: 10px 25px; margin-top: 5px; background-color: rgb(255, 255, 255);
+}
+.gdeslon-title {
+	padding: 0px 2px; font-weight: bold;
+}
+.gdeslon-link {
+	margin-left: 48px;
+}
+.gdeslon-link a {
+	background: url("https://static.lpgenerator.ru/media/css/images/slon_buy_btn.png") no-repeat 0px 0px; width: 84px; height: 25px; color: rgb(255, 255, 255); text-transform: uppercase; line-height: 20px; font-size: 10px; font-weight: bold; text-decoration: none; display: block;
+}
+.gdeslon-link a:hover {
+	background-position: 0px -25px;
+}
+.gdeslon-more {
+	text-align: center; padding-top: 10px;
+}
+.gdeslon-widget form {
+	text-align: center; margin-bottom: 10px;
+}
+.gdeslon-widget form input.bt_showcase_search {
+	background: url("https://static.lpgenerator.ru/media/css/images/slon_search_btn.png") no-repeat 0px 0px; border: currentColor; border-image: none; width: 100px; height: 43px; color: rgb(255, 255, 255); text-transform: uppercase; font-family: "Times New Roman", serif; font-size: 16px; cursor: pointer;
+}
+.gdeslon-widget form input.bt_showcase_search:hover {
+	background-position: 0px -43px;
+}
+.gdeslon-widget form input#keywords {
+	border-radius: 6px; border: 1px solid rgb(177, 176, 176); border-image: none; width: 580px !important; height: 39px; line-height: 39px; padding-left: 10px; font-size: 16px; margin-right: 10px; background-color: rgb(236, 239, 244);
+}
+.hasCountdown {
+	border: 1px solid rgb(204, 204, 204); border-image: none; background-color: rgb(238, 238, 238);
+}
+.countdown_rtl {
+	direction: rtl;
+}
+.countdown_holding span {
+	background-color: rgb(204, 204, 204);
+}
+.countdown_row {
+	padding: 0px 2px; width: 100%; text-align: center; clear: both;
+}
+.countdown_show1 .countdown_section {
+	width: 98%;
+}
+.countdown_show2 .countdown_section {
+	width: 48%;
+}
+.countdown_show3 .countdown_section {
+	width: 32.5%;
+}
+.countdown_show4 .countdown_section {
+	width: 24.5%;
+}
+.countdown_show5 .countdown_section {
+	width: 19.5%;
+}
+.countdown_show6 .countdown_section {
+	width: 16.25%;
+}
+.countdown_show7 .countdown_section {
+	width: 14%;
+}
+.countdown_section {
+	text-align: center; font-size: 75%; float: left; display: block;
+}
+.countdown_amount {
+	font-size: 200%;
+}
+.countdown_descr {
+	width: 100%; display: block;
+}
+.sprypay_button {
+	height: 70px; display: block;
+}
+.sprypay_button {
+	border: currentColor; border-image: none; text-transform: uppercase; line-height: 70px; text-decoration: none; cursor: pointer;
+}
+.b_410.b_blue.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b1-big.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_410.b_blue.sprypay_button:hover {
+	background-position: -443px;
+}
+.b_410.b_orange.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b2-big.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_410.b_orange.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_410.b_purple.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b3-big.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_410.b_purple.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_410.b_black.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b4-big.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_410.b_black.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_410.b_green.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b5-big.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_410.b_green.sprypay_button:hover {
+	background-position: -443px;
+}
+.b_410.b_red.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b6-big.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_410.b_red.sprypay_button:hover {
+	background-position: -443px;
+}
+.b_410.b_grey.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b7-big.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_410.b_grey.sprypay_button:hover {
+	background-position: -443px;
+}
+.b_410.b_yellow.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b8-big.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_410.b_yellow.sprypay_button:hover {
+	background-position: -443px;
+}
+.b_316.b_blue.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b1-medium.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_316.b_blue.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_316.b_orange.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b2-medium.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_316.b_orange.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_316.b_purple.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b3-medium.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_316.b_purple.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_316.b_black.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b4-medium.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_316.b_black.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_316.b_green.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b5-medium.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_316.b_green.sprypay_button:hover {
+	background-position: -443px;
+}
+.b_316.b_red.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b6-medium.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_316.b_red.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_316.b_grey.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b7-medium.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_316.b_grey.sprypay_button:hover {
+	background-position: -443px;
+}
+.b_316.b_yellow.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b8-medium.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_316.b_yellow.sprypay_button:hover {
+	background-position: -443px;
+}
+.b_220.b_blue.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b1-small.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_220.b_blue.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_220.b_orange.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b2-small.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_220.b_orange.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_220.b_purple.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b3-small.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_220.b_purple.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_220.b_black.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b4-small.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_220.b_black.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_220.b_green.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b5-small.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_220.b_green.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_220.b_red.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b6-small.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_220.b_red.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_220.b_grey.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b7-small.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_220.b_grey.sprypay_button:hover {
+	background-position: -442px;
+}
+.b_220.b_yellow.sprypay_button {
+	background: url("https://static.lpgenerator.ru/media/css/sprypay_buttons/b8-small.png") no-repeat -10px; color: rgb(255, 255, 255);
+}
+.b_220.b_yellow.sprypay_button:hover {
+	background-position: -443px;
+}
+.b_410.sprypay_button {
+	width: 410px;
+}
+.b_316.sprypay_button {
+	width: 316px;
+}
+.b_220.sprypay_button {
+	width: 220px;
+}
+.t_big.sprypay_button {
+	font-size: 18px;
+}
+.t_medium.sprypay_button {
+	font-size: 14px;
+}
+.t_small.sprypay_button {
+	font-size: 10px;
+}
+.dib {
+	display: inline-block;
+}
+.vam {
+	vertical-align: middle;
+}
+.ml10 {
+	margin-left: 10px;
+}
+.pos_r {
+	position: relative;
+}
+.t20 {
+	top: 20px;
+}
+.lpg_logo {
+	width: 185px;
+}
+.prepend-footer-view {
+	left: 0px; width: 100%; height: 90px; text-align: center; bottom: 0px; color: rgb(255, 255, 255); position: relative; z-index: 99999; background-color: rgb(30, 32, 36);
+}
+.foterSocIconsList {
+	
+}
+.foterSocIconsList .item {
+	width: 26px; height: 26px; margin-right: 1em; vertical-align: middle; display: inline-block; background-image: url("https://static.lpgenerator.ru/media/css/images/footer_buttons_sprite.png"); background-repeat: no-repeat;
+}
+.foterSocIconsList .youtube.item {
+	background-position: 0px 0px;
+}
+.foterSocIconsList .tw.item {
+	background-position: -26px 0px;
+}
+.foterSocIconsList .fb.item {
+	background-position: -52px -1px;
+}
+.foterSocIconsList .vk.item {
+	background-position: -78px 0px;
+}
+.foterSocIconsList .instagram.item {
+	background-position: -104px 0px;
+}
+.foterSocIconsList .gplus.item {
+	background-position: -130px 0px;
+}
+.in-variant-footer {
+	position: relative; background-color: rgb(35, 38, 42);
+}
+.in-variant-footer * {
+	color: rgb(255, 255, 255);
+}
+.in-variant-footer .share-row {
+	background-color: rgb(30, 32, 36);
+}
+.in-variant-footer .share-row .container {
+	padding: 2em 0px;
+}
+.in-variant-footer .comments-row .container {
+	padding: 4.25em 0px 0px;
+}
+.in-variant-footer h3.big {
+	font-size: 1.66em;
+}
+.in-variant-footer .share-row h3 {
+	margin: 0px 1em 0px 0px;
+}
+.in-variant-footer .disqus-cont {
+	width: 73.7%;
+}
+.in-variant-footer .links-cont {
+	width: 21.5%;
+}
+.in-variant-footer .links-cont .inner {
+	padding-left: 50px; border-left-color: rgb(255, 255, 255); border-left-width: 1px; border-left-style: solid;
+}
+.in-variant-footer .bottom-nav {
+	list-style: none; margin: 1em 0px; padding: 0px;
+}
+.in-variant-footer .bottom-nav li {
+	padding: 0.5em 0px; text-align: left; border-bottom-color: rgb(170, 170, 170); border-bottom-width: 1px; border-bottom-style: dashed;
+}
+.in-variant-footer .bottom-nav li > a {
+	color: rgb(204, 204, 204); text-decoration: none;
+}
+.in-variant-footer .bottom-nav li > a:hover {
+	color: rgb(37, 162, 205);
+}
+.lpg__oldBrowserWarning {
+	background: rgb(255, 255, 255) !important; left: 0px; top: 0px; width: 100%; color: rgb(43, 43, 43) !important; border-bottom-color: rgb(43, 43, 43) !important; border-bottom-width: 10px !important; border-bottom-style: solid !important; display: none; position: absolute; z-index: 999999;
+}
+.lpg__oldBrowserWarning .lpg__oldBrowserWarning_container {
+	margin: 0px auto; padding: 20px; max-width: 1000px;
+}
+.lpg__oldBrowserWarning table {
+	margin: 0px auto; width: auto;
+}
+.lpg__oldBrowserWarning .lpg__oldBrowserWarning__ico_alert {
+	background: url("https://static.lpgenerator.ru/media/css/images/alert_sign.png") no-repeat 0px 0px; width: 40px; height: 41px;
+}
+.lpg__oldBrowserWarning .lpg__oldBrowserWarning__ico_closeX {
+	background: url("https://static.lpgenerator.ru/media/css/upgrade/ui-dialog-white/close.png") no-repeat 0px 0px; width: 12px; height: 12px; cursor: pointer;
+}
+.lpg__blamb {
+	top: 50%; right: 30px; position: fixed; z-index: 999999;
+}
+.lpg__blamb_disc {
+	padding: 0px 18px; border-radius: 500px; transition:0.4s; width: 28px; height: 64px; text-align: center; overflow: hidden; margin-top: -50%; display: block; box-shadow: 0px 0px 20px 3px rgba(71,169,239,0.8); animation-name: shadowPulse; animation-duration: 1s; animation-iteration-count: infinite; background-color: rgb(255, 255, 255);
+}
+.lpg__blamb_disc:hover {
+	padding: 0px 25px; width: 104px; height: 154px; animation-duration: 0.7s;
+}
+.lpg__blamb_disc > span {
+	width: 100%; vertical-align: middle; display: inline-block;
+}
+.lpg__blamb_disc > span:first-child {
+	width: 0px; height: 100%;
+}
+.lpg__blamb__txt {
+	display: block;
+}
+.lpg__blamb__img_cont {
+	display: block;
+}
+.lpg__blamb__hand_cont {
+	display: block;
+}
+.lpg__blamb__txt {
+	height: 0px; opacity: 0;
+}
+.lpg__blamb__hand_cont {
+	height: 0px; opacity: 0;
+}
+.lpg__blamb__txt {
+	transition:height 0.5s, font-size 0.5s, opacity 0.6s; color: rgb(34, 34, 34); line-height: 16px; overflow: hidden; font-size: 0px;
+}
+.lpg__blamb_disc:hover .lpg__blamb__txt {
+	font-size: 14px;
+}
+.lpg__blamb__img_cont img {
+	max-height: 100%;
+}
+.lpg__blamb__hand_cont img {
+	max-height: 100%;
+}
+.lpg__blamb__img_cont {
+	transition:height 0.5s; height: 27px; text-align: left; overflow: hidden; box-shadow: 0px 0px 10px 4px #fff; background-color: rgb(255, 255, 255);
+}
+.lpg__blamb__hand_cont {
+	transition:height 0.5s, opacity 0.6s;
+}
+.lpg__blamb_disc:hover .lpg__blamb__img_cont {
+	height: 31px;
+}
+.lpg__blamb_disc:hover .lpg__blamb__txt {
+	height: 34px; opacity: 1;
+}
+.lpg__blamb_disc:hover .lpg__blamb__hand_cont {
+	height: 34px; opacity: 1;
+}
+iframe[name='google_conversion_frame'] {
+	display: none;
+}
